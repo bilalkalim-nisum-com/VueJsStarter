@@ -1,5 +1,9 @@
 # vuepractice1
 
+```
+Made with vue UI when  when we install vue globally we get a UI based project setup interface which can intiate projects with different plugins and differnt approaches even with vue 2 and vue 3
+```
+
 ## Project setup
 ```
 npm install
